@@ -10,9 +10,10 @@ public class Demo extends BaseTest  {
 
 	@Test
 	public void testDemo() {
-		
+		Reporter.log("hello");
 		Reporter.log("demo", true);
 		Reporter.log("test", false);
 		
 	}
 }
+//https://github.com/hemanth7272/repository2.git
