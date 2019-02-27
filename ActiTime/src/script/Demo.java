@@ -12,6 +12,7 @@ public class Demo extends BaseTest  {
 	public void testDemo() {
 		
 		Reporter.log("demo", true);
+		Reporter.log("test", false);
 		
 	}
 }
